@@ -10,11 +10,11 @@
 - 😄 Pronouns: He/Him...
 - ⚡ Fun fact: I love watching and Playing football...
 
-<u> ## Objective</u>
+<u>## Objective</u>
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-<u> ## Skills</u>
+<u>## Skills</u>
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
