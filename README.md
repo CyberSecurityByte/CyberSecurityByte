@@ -50,7 +50,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 <u> ## Certifications</u>
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+Certifications
 <div>
 
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
